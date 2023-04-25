@@ -1,0 +1,17 @@
+{
+    "name": "VexxedLib.Controllers",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5f100579d8aa2da498ecfa7d8c2548c8",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
